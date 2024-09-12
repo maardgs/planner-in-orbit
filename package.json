@@ -11,9 +11,11 @@
   "description": "",
   "dependencies": {
     "-": "^0.0.1",
+    "@paralleldrive/cuid2": "^2.2.2",
     "D": "^1.0.0",
     "drizzle-orm": "^0.33.0",
     "fastify": "^4.28.1",
+    "postgres": "^3.4.4",
     "typescript": "^5.6.2",
     "zod": "^3.23.8"
   },
